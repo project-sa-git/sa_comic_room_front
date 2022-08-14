@@ -3,7 +3,7 @@ import { MantineProvider } from "@mantine/core";
 
 function App() {
   return (
-    <MantineProvider theme={{ colorScheme: 'dark' }} withNormalizeCSS withGlobalStyles>
+    <MantineProvider theme={{ colorScheme: 'light' }} withNormalizeCSS withGlobalStyles>
       <Router />
     </MantineProvider>
   );
