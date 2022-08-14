@@ -1,6 +1,7 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Error404 from "./pages/Error404";
 import Home from "./pages/Home";
+import MangaCardDetail from "./pages/MangaCardDetail/MangaCardDetail";
 
 function Router() {
   return (
@@ -9,6 +10,7 @@ function Router() {
         <Routes>
           <Route path="*" element={<Error404 />} />
           <Route path="/" element={<Home />} />
+          <Route path="/mangaDetail" element={<MangaCardDetail />} />
         </Routes>
       </BrowserRouter>
     </>
