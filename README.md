@@ -11,8 +11,8 @@ figma/完成イメージ.fig
 
 ![image](https://user-images.githubusercontent.com/50135286/184522343-f577b224-4831-468b-a8d3-14735607281c.png)
 
-# その他
-Udemy & cokdesandboxをベースに、JavaScript、Reactのベースを確認がてら勉強しています（2022/10/23（日）更新）
+# その他（2022/10/23（日）更新）
+Udemy & cokdesandboxをベースに、JavaScript、Reactのベースを確認がてら勉強しています
 
 ○ JavaScriptの基本
 
