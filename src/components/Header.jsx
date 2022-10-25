@@ -7,7 +7,11 @@ import MangaCard from "../components/MangaCard";
 function Header() {
   return (
     <>
-    <Paper radius={0} style={{ height: 60, background: "#fff" }}></Paper>
+      <Paper radius={0} style={{ background: "#fff" }}>
+        <Text size="lg" align="center" py={15} transform="uppercase">
+          Comic
+        </Text>
+      </Paper>
       <Image
         src="https://free4kwallpapers.com/uploads/originals/2020/11/15/sunset-vector-wallpaper.jpg"
         height={500}
@@ -38,7 +42,7 @@ function Header() {
           NEWS
         </Button>
       </SimpleGrid>
-      </>
+    </>
   );
 }
 
