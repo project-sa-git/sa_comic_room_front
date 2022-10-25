@@ -10,7 +10,7 @@ function Router() {
         <Routes>
           <Route path="*" element={<Error404 />} />
           <Route path="/" element={<Home />} />
-          <Route path="/mangaDetail" element={<MangaCardDetail />} />
+          <Route path="/manga/:id" element={<MangaCardDetail />} />
         </Routes>
       </BrowserRouter>
     </>
