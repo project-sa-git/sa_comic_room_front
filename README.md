@@ -18,7 +18,7 @@ cd sa_comic_room_front
 npm run dev
 ```
 
-# その他（2022/10/25（火）更新）
+# その他（2022/10/26（水）更新）
 Udemy & cokdesandboxをベースに、JavaScript、Reactのベースを確認がてら勉強しています
 
 ○ JavaScriptの基本
